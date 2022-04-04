@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Projects.
 - 🌱 I’m currently learning Data Analysis and Data Visulization 
-- 👯 I’m looking to collaborate on Python, Pandas, Numpy, Matplotlib, SQl..
+- 👯 I’m looking to collaborate on Data Analysis, MySQL, Tableau..
 - 🤔 I’m looking for help with Data Science 
 - 💬 Ask me about my projects and my works.
 - 📫 How to reach me: https://www.linkedin.com/in/yusuf-satilmis/
