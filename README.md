@@ -2,7 +2,7 @@
 <b>Hi, My name is Yusuf. I am a Data professional.<b>
 
 <p></p>
-<div align="center"> <h1 align="center"> :nerd_face:	 DATA ANALYSIS TOOLS :nerd_face: </h1> </div>
+<div align="center"> <h1 align="center"> 🤓	 DATA ANALYSIS TOOLS 🤓 </h1> </div>
 
 <b>I have experience using these data analysis tools.<b>
 
