@@ -13,7 +13,7 @@
 
 <div align="center"> <h2 align="center"> 🤓 DATA ANALYSIS TOOLS 🤓 </h2> </div>
 
-<b>I have experience using these data analysis tools.<b>
+<b><b>
 
 <p align="center">
   <a href="https://www.python.org/"> <img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python" height="60"/> </a>
@@ -26,7 +26,7 @@
 
 <div align="center"> <h2 align="center"> 🙂 DATA VISUALIZATION 🙂 </h2> </div>
 
-<b>I have also experience using these data visualization tools.<b>
+<b><b>
 
 <p align="center">
   <a href="https://matplotlib.org" target="_blank"> <img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_003.png" alt="Matplotlib" height="50"/> </a>
@@ -40,11 +40,11 @@
 <b>Lets connect</b>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/.........../"> 
+  <a href="https://www.linkedin.com/in/yusuf-satilmis/"> 
     <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
-  <a href="">
+  <a href="https://public.tableau.com/app/profile/yusufsat">
     <img align="center" src="https://img.shields.io/badge/-Tableau-1e376b?style=for-the-badge&logo=tableau&logoColor=white"  />
   </a>
 
