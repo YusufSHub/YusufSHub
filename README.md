@@ -55,7 +55,7 @@
 
 <div align="center"> <h2 align="center"> 💼 Skills and Tools 💼 </h2> </div>
 
-<b>Proficient in:</b> Python, MySQL, Pandas, Microsoft Excel, Azure, R
+<b>Proficient in: </b> Python, MySQL, Pandas, Microsoft Excel, Azure, R
 
 <b>Data Visualization:</b> Matplotlib, Seaborn, Tableau, Microsoft Power BI
 
